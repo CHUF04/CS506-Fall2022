@@ -1,3 +1,7 @@
 def draw_park():
-    print("park not found")
+    print()
+    print("####################")
+    print("####################")
+    print("####################")
+    print("####################")
     return
