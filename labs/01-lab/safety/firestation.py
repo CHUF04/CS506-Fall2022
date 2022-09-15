@@ -1,3 +1,7 @@
 def draw_firestation():
-    print("fire station not found")
+    print()
+    print("========FIRE========")
+    print("==----========----==")
+    print("==|  |========|  |==")
+    print("==|  |========|  |==")
     return
