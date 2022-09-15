@@ -1,3 +1,7 @@
 def draw_policestation():
-    print("police station not found")
+    print()
+    print("=======POLICE=======")
+    print("=||--|--|--|--|--||=")
+    print("=||  |  |  |  |  ||=")
+    print("=||  |  |  |  |  ||=")
     return
